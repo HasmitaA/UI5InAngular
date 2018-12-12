@@ -1,0 +1,10 @@
+.ui5contentdiv {
+    height: 100vh;
+    margin: 50px;   
+}
+
+.banner {
+    height: 200px;
+    background-color: lightgray;
+    margin: -20px;
+}
